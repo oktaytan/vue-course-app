@@ -1,0 +1,8 @@
+$body-bg: #f0f4f8;
+$body-color: #111;
+
+$primary: #3ebd93;
+$gray-dark: #bcccdc;
+
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import '../../node_modules/bootstrap-vue/src/index.scss';
